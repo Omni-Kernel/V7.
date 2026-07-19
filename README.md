@@ -27,38 +27,50 @@
 ---
 ---
 
-<br>
+<div align="center">
 
-# 📖 TABLE OF CONTENTS
+## 📚 Navigation
 
-1. [Executive Summary: The $1B Asset](#1-executive-summary-the-1b-asset)
-2. [The Mathematical Physics of Revenue (The Moat)](#2-the-mathematical-physics-of-revenue-the-moat)
-3. [The 10-Stage Algorithmic Kernel](#3-the-10-stage-algorithmic-kernel)
-4. [The Physics of Time: Temporal Governance Engine](#4-the-physics-of-time-temporal-governance-engine)
-5. [Multi-Agent Swarm Consensus (The Neural Layer)](#5-multi-agent-swarm-consensus-the-neural-layer)
-6. [Strategic Capabilities & Proprietary Features](#6-strategic-capabilities--proprietary-features-the-billion-dollar-moat)
-7. [Forensic Backtest Results — The Gut vs. Kernel Ledger](#7-the-gut-vs-kernel-ledger)
-8. [Enterprise Deployment Topology (v7.2 Rollout)](#8-enterprise-deployment-topology-v72-rollout)
-9. [Security, Compliance & Governance](#9-security-compliance--governance)
-10. [The Road to AGI in Capital Allocation](#10-the-road-to-agi-in-capital-allocation)
-11. [Deep Feature Glossary (The Mathematical Arsenal)](#11-deep-feature-glossary-the-mathematical-arsenal)
-12. [Vertical Market Disruption (The $1.5T Opportunity)](#12-vertical-market-disruption-the-15t-opportunity)
-13. [UI/UX: The Multi-Agent Swarm Visualization](#13-uiux-the-multi-agent-swarm-visualization)
-14. [Memory Architecture: LRU Pruning & Continuous PageRank](#14-memory-architecture-lru-pruning--continuous-page-rank)
-15. [Zero-Trust Governance: The Merkle Audit Ledger](#15-zero-trust-governance-the-merkle-audit-ledger)
-16. [Dossier Interfaces](#16--dossier-interfaces)
-17. [The Physics of Escalation: The CLV Modifier](#17-the-physics-of-escalation-the-clv-modifier)
-18. [Predictive Drift & Adversarial Adaptation](#18-predictive-drift--adversarial-adaptation)
-19. [The Hard-Kill & Defer Matrix](#19-the-hard-kill--defer-matrix)
-20. [Integration with Legacy ERP Systems](#20-integration-with-legacy-erp-systems)
-21. [Deployment & Maintenance Playbook](#21-deployment--maintenance-playbook)
-22. [Glossary of Terms](#22-glossary-of-terms)
-23. [Temporal Physics Mathematical Formulation](#23-temporal-physics-mathematical-formulation)
-24. [Advanced Topology & Graph Centrality](#24-advanced-topology--graph-centrality)
-25. [The Psychology of the Kernel](#25-the-psychology-of-the-kernel)
-26. [Deep System Metrics & Telemetry](#26-deep-system-metrics--telemetry)
+[🚀 Executive Summary](#1-executive-summary-the-1b-asset) •
+[🧠 Mathematical Physics](#2-the-mathematical-physics-of-revenue-the-moat) •
+[⚙️ Algorithmic Kernel](#3-the-10-stage-algorithmic-kernel) •
+[⏳ Temporal Engine](#4-the-physics-of-time-temporal-governance-engine) •
+[🤖 Swarm Consensus](#5-multi-agent-swarm-consensus-the-neural-layer)
 
 <br>
+
+[🏛️ Strategic Capabilities](#6-strategic-capabilities--proprietary-features-the-billion-dollar-moat) •
+[📊 Forensic Backtests](#7-the-gut-vs-kernel-ledger) •
+[🌐 Deployment](#8-enterprise-deployment-topology-v72-rollout) •
+[🔒 Security](#9-security-compliance--governance) •
+[🧬 AGI Roadmap](#10-the-road-to-agi-in-capital-allocation)
+
+<br>
+
+[📖 Feature Glossary](#11-deep-feature-glossary-the-mathematical-arsenal) •
+[💼 Vertical Markets](#12-vertical-market-disruption-the-15t-opportunity) •
+[🖥️ UI / UX](#13-uiux-the-multi-agent-swarm-visualization) •
+[🧠 Memory Architecture](#14-memory-architecture-lru-pruning--continuous-page-rank) •
+[🔐 Audit Ledger](#15-zero-trust-governance-the-merkle-audit-ledger)
+
+<br>
+
+[🗂️ Dossier Interfaces](#16--dossier-interfaces) •
+[📈 CLV Modifier](#17-the-physics-of-escalation-the-clv-modifier) •
+[🌊 Predictive Drift](#18-predictive-drift--adversarial-adaptation) •
+[⚖️ Hard-Kill Matrix](#19-the-hard-kill--defer-matrix) •
+[🔌 ERP Integration](#20-integration-with-legacy-erp-systems)
+
+<br>
+
+[🚀 Deployment Playbook](#21-deployment--maintenance-playbook) •
+[📚 Glossary](#22-glossary-of-terms) •
+[📐 Temporal Mathematics](#23-temporal-physics-mathematical-formulation) •
+[🕸️ Graph Topology](#24-advanced-topology--graph-centrality) •
+[🧠 Kernel Psychology](#25-the-psychology-of-the-kernel) •
+[📡 Telemetry](#26-deep-system-metrics--telemetry)
+
+</div>
 
 ---
 ---
