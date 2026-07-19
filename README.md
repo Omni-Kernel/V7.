@@ -277,11 +277,11 @@ By mathematically eliminating deals riddled with exclusivity traps, timeline mis
 
 | Lead ID | The Human "Gut" Move | The OMNI "Kernel" Move | The Delta (Δ) | Financial Impact |
 | :--- | :--- | :--- | :--- | :--- |
-| 🟢 **[The Sovereign](DOSSIERS/The Sovereign.md)** | Approve the $2.4B deal on relationship trust alone | ✅ **INVEST** (Kelly 43.0%) | **💰 CAPITAL DEPLOYMENT** | Deployed $446,519 expected value (98.0% win posterior) |
-| 🟠 **[The Titan](DOSSIERS/The Titan.md)** | Hesitate on $8.7B exclusivity & reseller clauses | ✅ **ESCALATE** (Kelly 13.1%) | **⚡ ALPHA CAPTURE** | Deployed $278,963 expected value (89.4% win posterior) |
-| 🟡 **[The Orion Deferral](DOSSIERS/ The Orion.md)** | Push to close now despite an 11-month procurement gap | ⚠️ **DEFER** (REVIEW_LOW) | **⏱️ TEMPORAL EFFICIENCY** | Avoided premature deployment of $246,445 tied to a deal that can't move for 11 months |
-| 🔵 **[The Mirage](DOSSIERS/ The Mirage.md)** | Chase "strong interest" with no confirmed budget or decision-maker | ⚠️ **REVIEW_MEDIUM** | **🔍 QUALIFICATION HOLD** | Held $125,838 pending Security Review & Budget confirmation |
-| 🔴 **[The Trojan](DOSSIERS/ The Trojan.md)** | Close the $12.8B "sure thing" and sign the paperwork | ❌ **HARD KILL ($0)** | **🛡️ IP PRESERVATION** | Saved $20,000 in evaluation waste — avoided Unlimited Liability, Perpetual IP Transfer, Mandatory Source Code Transfer & Custom Cryptography terms |
+| 🟢 **[The Sovereign](DOSSIERS/The%20Sovereign.md)** | Approve the $2.4B deal on relationship trust alone | ✅ **INVEST** (Kelly 43.0%) | **💰 CAPITAL DEPLOYMENT** | Deployed $446,519 expected value (98.0% win posterior) |
+| 🟠 **[The Titan](DOSSIERS/The%20Titan.md)** | Hesitate on $8.7B exclusivity & reseller clauses | ✅ **ESCALATE** (Kelly 13.1%) | **⚡ ALPHA CAPTURE** | Deployed $278,963 expected value (89.4% win posterior) |
+| 🟡 **[The Orion Deferral](DOSSIERS/The%20Orion.md)** | Push to close now despite an 11-month procurement gap | ⚠️ **DEFER** (REVIEW_LOW) | **⏱️ TEMPORAL EFFICIENCY** | Avoided premature deployment of $246,445 tied to a deal that can't move for 11 months |
+| 🔵 **[The Mirage](/DOSSIERS/The%20Mirage.md)** | Chase "strong interest" with no confirmed budget or decision-maker | ⚠️ **REVIEW_MEDIUM** | **🔍 QUALIFICATION HOLD** | Held $125,838 pending Security Review & Budget confirmation |
+| 🔴 **[The Trojan](DOSSIERS/The%20Trojan.md)** | Close the $12.8B "sure thing" and sign the paperwork | ❌ **HARD KILL ($0)** | **🛡️ IP PRESERVATION** | Saved $20,000 in evaluation waste — avoided Unlimited Liability, Perpetual IP Transfer, Mandatory Source Code Transfer & Custom Cryptography terms |
 
 <br>
 
@@ -291,11 +291,11 @@ By mathematically eliminating deals riddled with exclusivity traps, timeline mis
 
 | Lead | Kill Score | Verdict | Distance From Nearest Decision Boundary |
 | :--- | :---: | :--- | :--- |
-| 🟢 **[Sovereign](DOSSIERS/The Sovereign.md)** | 4.52/100 | INVEST | Far from any kill threshold — unambiguous |
-| 🟡 **[Orion](DOSSIERS/The Orion.md)** | 27.72/100 | REVIEW_LOW | Moderate — timeline issue only, no policy risk |
-| 🔵 **[Mirage](DOSSIERS/The Mirage.md)** | 60.41/100 | REVIEW_MEDIUM | Close to the escalation line — budget unknown is doing the damage |
-| 🟠 **[Titan](DOSSIERS/The Titan.md)** | 80/100 | ESCALATE | High score despite escalation — score reflects deal complexity, not deal badness |
-| 🔴 **[Trojan](DOSSIERS/The Trojan.md)** | 90/100 | KILL | Highest in the batch — terminal policy violation, not a borderline call |
+| 🟢 **[Sovereign](DOSSIERS/The%20Sovereign.md)** | 4.52/100 | INVEST | Far from any kill threshold — unambiguous |
+| 🟡 **[Orion](DOSSIERS/The%20Orion.md)** | 27.72/100 | REVIEW_LOW | Moderate — timeline issue only, no policy risk |
+| 🔵 **[Mirage](DOSSIERS/The%20Mirage.md)** | 60.41/100 | REVIEW_MEDIUM | Close to the escalation line — budget unknown is doing the damage |
+| 🟠 **[Titan](DOSSIERS/The%20Titan.md)** | 80/100 | ESCALATE | High score despite escalation — score reflects deal complexity, not deal badness |
+| 🔴 **[Trojan](DOSSIERS/The%20Trojan.md)** | 90/100 | KILL | Highest in the batch — terminal policy violation, not a borderline call |
 
 > **Why this matters:** Titan carries a *higher* kill score than Mirage, yet Titan escalates and Mirage sits in review. The score is an input to a governance decision — not the decision itself. That distinction is what separates this system from a simple threshold cutoff.
 >
